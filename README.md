@@ -1,4 +1,4 @@
-# TrueFakeNews_Wordcloud_BERT
+# TrueFakeNews_Wordcloud
 NLP task on True and Fake News Dataset
 
 
